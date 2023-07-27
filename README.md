@@ -15,6 +15,7 @@ using an insurance budget of $983,221 for all non-smokers.</p>
 <p>-> SQL Server Management Studio</p>
 <p>-> Excel</p>
 <p>-> Tableau Desktop</p>
+<p> Notion </p>
 
 <b> Data Source:- </b>
 https://drive.google.com/drive/folders/16SUZlfQNNVq5vuv63IOtw4fWW-Nx6K99?usp=sharing
